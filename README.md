@@ -19,6 +19,7 @@ A collection of pods represent a node. Nodes are often a physical machine that a
 
 A collection of nodes represent a cluster. Clusters are by geographic region, which is where all the compute resources are hosted in the cloud. 
 
+![](https://miro.medium.com/max/1256/1*gT5K52iFTJf6SDhwWBaClQ.png)
 ### Notes 
 
 Often when working with kubernetes one does not really create the individual pods and by defauly they don't really have an external IP. As a devops engineer, one would define number of pods required and then for the node have a load balancer than balances traffic between the pods and the load balancer creates a static IP that one uses to access the service. 
