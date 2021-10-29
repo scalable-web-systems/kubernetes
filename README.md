@@ -1,5 +1,6 @@
 # kubernetes
 
+![](https://www.shapeblue.com/wp-content/uploads/2020/12/Kubernetes-logo.png)
 ## Introduction 
 
 [Kubernetes](https://kubernetes.io/) (K8s in short) is an open-source container orchestration platform introduced by Google in 2014. The platform’s main purpose is to automate deployment and management (e.g., update, scaling, security, networking, auto-repair) of containerized application in large distributed computer clusters. To this end, the platform offers a number of API primitives, deployment options, networking, container and storage interfaces, built-in security, and other useful features. 
