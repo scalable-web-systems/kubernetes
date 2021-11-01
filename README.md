@@ -33,7 +33,7 @@ The main benefit of kubernetes is that it allows you to use a yaml file to defin
 
 ### Auto Repair 
 
-Auto repair is a key feature in kubernetes. For example, if we want 2 pods always running on the minimum for an application and all of a sudden one pod goes down due to high memory usage/CPU usage, kubernetes will either restart or recreate the pod which will be specifically useful in the issues we have been facing with the HARTS EC2 instance. This goes back to show how devops engineers need to focus on config and kubernetes will take care of the rest. 
+Auto repair is a key feature in kubernetes. For example, if we want 2 pods always running on the minimum for an application and all of a sudden one pod goes down due to high memory usage/CPU usage, kubernetes will either restart or recreate the pod which will be specifically useful. This goes back to show how devops engineers need to focus on config and kubernetes will take care of the rest. 
 
 ### Auto Scaling 
 
